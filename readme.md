@@ -1,4 +1,4 @@
-A simple demo of testing javascript files and generating code coverage reports using maven + jasmine and sage 
+A simple demo of testing javascript files and generating code coverage reports using maven + jasmine and saga 
 using phatomjs (all of which appear to be no longer supported)
 
 `mvn clean install`
